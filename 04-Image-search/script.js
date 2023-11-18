@@ -1,4 +1,4 @@
-const accessKey = "your_apikey_from_unsplash.com_justlogin_and_create_one_apikey";
+const accessKey = "96s-UFABVqJC-NJuItSBqRWsbaZzMcRO3e_nocXZsv4";
 
 const formEl = document.querySelector('form')
 const inputEl = document.getElementById('input-search')
